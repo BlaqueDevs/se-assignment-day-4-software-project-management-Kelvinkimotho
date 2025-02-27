@@ -15,7 +15,8 @@
  - It helps keep the project financially viable and prevents financial losses.
  - It ensures that resources are used efficiently without waste.
  - Improves profitability and client trust.
- Strategies we can use to prevent budget overruns include
+   
+Strategies we can use to prevent budget overruns include
    - Setting a clear budget from the beginning.
    - Tracking expenses regularly and compare them with the planned budget.
    - Avoiding moving out of scope by clearly defining project boundaries.
@@ -29,17 +30,18 @@
   - Agile is harder to estimate final timeline while in waterfall timelines are predictable but rigid to change
     
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-  Agile is better In
+Agile is better In
    - Software startups that require fast iterations.
    - Developing apps with frequently changing requirements (e.g., social media platforms).
    - In continuous improvement projects like Software as a service products.
-  Waterfall is better in
+     
+Waterfall is better in
    - Projects with well-defined requirements (e.g., banking systems).
    - Government or regulatory software that needs detailed documentation.
    - Construction or hardware-related software projects.
      
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
-  Methods for ensuring quality assurance include.
+Methods for ensuring quality assurance include.
     - Implementing Quality Assurance (QA) practices like code reviews.
     - Using Quality Control (QC) measures such as automated testing.
     - Following ISO and CMMI standards for quality.
@@ -50,12 +52,11 @@ Importance of maintaining high standards are
     - Helps save costs on rework and bug fixes.
   
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
- Defining scope guarantees
+Defining scope guarantees
      - Clear project objectives and boundaries.
      - Helps us avois scope creep (uncontrolled project growth).
      
- A Work Breakdown Structure (WBS) is a project management tool that breaks down a project into smaller, manageable tasks. It helps us organize the work into a 
-   hierarchical structure, making it easier to plan, track, and assign responsibilities.
+A Work Breakdown Structure (WBS) is a project management tool that breaks down a project into smaller, manageable tasks. It helps us organize the work into a hierarchical structure, making it easier to plan, track, and assign responsibilities.
      - It improves Project Planning by helping us define the scope clearly.
      - Enhances Task Management by breaks complex projects into smaller, manageable parts.
      - Better Resource Allocation by ensuring efficient distribution of resources.
@@ -63,19 +64,19 @@ Importance of maintaining high standards are
      - It reduces Risk of Overlooked Tasks as it ensures that all necessary work is accounted for.
     
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
- Benefits of developing a detailed project schedule are
+Benefits of developing a detailed project schedule are
    - It keeps the project on track.
    - Helps in resource allocation.
    - Ensures that all dependencies are managed properly.
 
- Gantt Charts
+Gantt Charts
    - Provide a visual timeline of tasks.
    - Help us track progress against deadlines.
    - Thay also help us identify bottlenecks early.
      
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
- My software aims to address various problems faced by people. Before developing the solution i need to evaluate user needs to make sure that my software is of help to my 
-   target audience, This are the things i need to do before starting developing the solution.
+My software aims to address various problems faced by people. Before developing the solution i need to evaluate user needs to make sure that my software is of help to my 
+target audience, This are the things i need to do before starting developing the solution.
     - I need to identify user pain points (e.g., inefficiency, high costs, security issues).
     - I should then address challenges specific to an industry or group.
     - Then i have to ensure that the solution improves productivity, security, or user experience.
